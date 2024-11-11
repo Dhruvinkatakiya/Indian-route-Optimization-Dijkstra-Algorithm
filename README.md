@@ -59,9 +59,6 @@ This project is a web application that allows users to find the shortest path be
 
 2. **Open your browser** and go to `http://localhost:8501` to view the app.
 
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
 ## License
 
@@ -75,4 +72,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please contact [yourname@example.com](mailto:yourname@example.com).
+For any questions or suggestions, please contact [dev.dhruvin.0.1@gmail.com](mailto:yourname@example.com).
